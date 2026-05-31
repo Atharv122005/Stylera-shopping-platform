@@ -7,27 +7,26 @@ A modern, responsive e-commerce front-end website built with pure HTML, CSS, and
 
 ## 📸 Preview
 
-
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
 
 ### 🛍️ Products
-![Products](screenshot/products.png)
+![Products](screenshots/products.png)
 
 ### 🎯 Feature Offers
-![Banners](screenshot/banners.png)
+![Banners](screenshots/banners.png)
 
 ### 🦶 Footer
-![Footer](screenshot/footer.png)
+![Footer](screenshots/footer.png)
 
 ### 📰 Blog
-![Blog](screenshot/blog.png)
+![Blog](screenshots/blog.png)
 
 ### 📞 Contact
-![Contact](screenshot/contact.png)
+![Contact](screenshots/contact.png)
 
-### 📞 Add to Card
-![Contact](screenshot/addCard.png)
+### 🛒 Add to Cart
+![Add to Cart](screenshots/addCard.png)
 
 ---
 
