@@ -7,7 +7,6 @@ A modern, responsive e-commerce front-end website built with pure HTML, CSS, and
 
 ## 📸 Preview
 
-## 📸 Screenshots
 
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
