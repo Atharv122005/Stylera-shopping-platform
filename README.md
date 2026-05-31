@@ -7,7 +7,28 @@ A modern, responsive e-commerce front-end website built with pure HTML, CSS, and
 
 ## 📸 Preview
 
-![Stylera Banner](assets/images/banner1.jpg)
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 🛍️ Products
+![Products](screenshot/products.png)
+
+### 🎯 Feature Offers
+![Banners](screenshot/banners.png)
+
+### 🦶 Footer
+![Footer](screenshot/footer.png)
+
+### 📰 Blog
+![Blog](screenshot/blog.png)
+
+### 📞 Contact
+![Contact](screenshot/contact.png)
+
+### 📞 Add to Card
+![Contact](screenshot/addCard.png)
 
 ---
 
