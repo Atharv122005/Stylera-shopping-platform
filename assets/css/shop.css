@@ -1,0 +1,82 @@
+#collection{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  padding:70px 80px;
+  margin:30px;
+}
+
+#collection .product{
+  height:auto;
+  width:250px;
+  border:1px solid rgb(249, 245, 245);
+  margin:20px;
+  border-radius:7PX;
+  text-align:center;
+  box-shadow:20px 20px 30px rgba(35, 33, 33,0.06);
+}
+
+#collection .product .feat{
+  height:210px;
+  width:200px;
+  border-radius:6px;
+  padding:10px;
+}
+
+.price-row{
+  line-height:45px;
+  gap:17px;
+}
+
+.stock{
+  color: #e91e63;
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+.mrp{
+  text-decoration: line-through;
+  color: #888;
+  font-size: 14px;
+}
+
+.off{
+  color: #388e3c;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.price{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.offer{
+  color:#888;
+  font-size:50px;
+  font-weight:6px;
+  text-align:center;
+}
+
+.actions{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap:20px;
+  margin:10px;
+  
+
+}
+.actions .view{
+  padding:4px 18px;
+  margin-bottom: 2px;
+  border:3px solid #3A6F6B;
+  border-radius: 5px;
+}
+.actions .add-cart{
+  padding:4px 12px;
+  margin-bottom: 2px;
+  border:3px solid #3A6F6B;
+  border-radius: 5px;
+
+} 
+
